@@ -12,6 +12,6 @@ I am a ~~mechanical engineer~~ "computer scientist", who ~~hates~~ enjoys coding
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rexicon226&show_icons=true&theme=gruvbox)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rexicon226&layout=compact&theme=gruvbox&hide=TeX&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rexicon226&layout=compact&theme=gruvbox&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
-no public c projects :C
+not many public c projects :C
