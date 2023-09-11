@@ -1,17 +1,57 @@
-[![wakatime](https://wakatime.com/badge/user/7919913e-2b0a-4282-ac37-f4ea394ea512.svg)](https://wakatime.com/@7919913e-2b0a-4282-ac37-f4ea394ea512) starting 01/01/2023
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rexicon226&label=Profile%20views&color=0e75b6&style=flat" alt="rexicon226" /> </p>
 
-<h3 align="left">Me:</h3>
+<h1 align="center"><b>Hi , I'm David </b></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Engineer;Computer+Scientist;Glider+Pilot;"></a>
+</p>
+<br>
+	
+## **About me**
 
-I am a ~~mechanical engineer~~ "computer scientist", who ~~hates~~ enjoys coding all the time.
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<br>
 
-<h3 align="left">Stats:</h3>
+- Enjoy Low Level Languages
+- Love Embedded Systems
+- Currently Working on a Flight-Computer
+- Personal website [link](https://vortan.dev)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rexicon226&show_icons=true&theme=gruvbox)
+<br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rexicon226&layout=compact&theme=gruvbox&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-not many public c projects :C
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
+
+<p align="center">
+
+- **Languages**:
+    
+    [![skills](https://skillicons.dev/icons?i=zig,cpp,c,rust,python,)]()
+
+<br>   
+    
+- **Front-End Development**:
+
+  [![skills](https://skillicons.dev/icons?i=vite,svelte)]()
+
+<br>
+
+- **Softwares and Tools**:
+
+    [![skills](https://skillicons.dev/icons?i=linux,git,unity,blender)]()
+
+<br>
+</p>
+
+-----
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/Rexicon226/">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rexicon226&show_icons=true&hide=python&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="rexicon226"/>
+
+</a>
+</div>
