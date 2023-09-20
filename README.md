@@ -12,9 +12,9 @@
 
 <br>
 
-- Enjoy Low Level Languages
-- Love Embedded Systems
-- Currently Working on a Flight-Computer
+- Enjoy low level languages
+- Love embedded systems
+- Currently working on a Flight-Computer
 - Personal website [link](https://vortan.dev)
 
 <br><br>
