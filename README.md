@@ -1,9 +1,10 @@
+*I am mostly on my personal git server [Link](https://git.vortan.dev)*
+
 
 <h1 align="center"><b>Hi , I'm David </b></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Engineer;Computer+Scientist;Glider+Pilot;"></a>
 </p>
-<br>
 	
 ## **About me**
 
