@@ -1,49 +1,11 @@
 *I am mostly on my personal git server [Link](https://git.vortan.dev)*
 
-
-<h1 align="center"><b>Hi , I'm David </b></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Engineer;Computer+Scientist;Glider+Pilot;"></a>
-</p>
-
-## **About me**
-
-<br>
+ # **About me**
 
 - Enjoy low level languages
 - Love embedded systems
 - Currently working on a Flight-Computer
 - Personal website [link](https://vortan.dev)
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
-
-<p align="center">
-
-- **Languages**:
-    
-    [![skills](https://skillicons.dev/icons?i=zig,cpp,c,rust,python,)]()
-
-<br>   
-    
-- **Front-End Development**:
-
-  [![skills](https://skillicons.dev/icons?i=vite,svelte)]()
-
-<br>
-
-- **Softwares and Tools**:
-
-    [![skills](https://skillicons.dev/icons?i=linux,git,unity,blender)]()
-
-<br>
-</p>
-
------
 
 <br>
 
