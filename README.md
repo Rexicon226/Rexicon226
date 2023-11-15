@@ -4,7 +4,7 @@
 
 - Enjoy low level languages
 - Love embedded systems
-- Currently working on a Flight-Computer
+- Currently working on a Glider Flight Computer
 - Personal website [link](https://vortan.dev)
 
 <br>
