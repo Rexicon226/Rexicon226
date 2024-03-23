@@ -1,11 +1,9 @@
-*I am mostly on my personal git server [Link](https://git.vortan.dev)*
-
  # **About me**
 
-- Enjoy low level languages
-- Love embedded systems
-- Currently working on a Glider Flight Computer
+- I like Zig :)
+- Enjoy embedded systems
 - Personal website [link](https://vortan.dev)
+- Code go fast.
 
 <br>
 
