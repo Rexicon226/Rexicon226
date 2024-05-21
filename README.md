@@ -1,16 +1,12 @@
- # **About me**
+I usually go by Sinon online. I'm an 11th grader writing the RISC-V backend for [Zig](https://github.com/ziglang/zig) and doing ML inference at [ZML](https://github.com/zml).
 
-- I like Zig :)
-- Enjoy embedded systems
-- Personal website [link](https://vortan.dev)
-- Code go fast.
+I have great experience optimizing VMs, building linkers, low-level debugging, and many other things. I enjoy a more theoretical approach to computer science in the form of CFG optimization and scheduler-guided ISEL.
 
-<br>
+Notable projects aside from my work and Zig are:
 
-<div align="center">
+- [Osmium](https://github.com/Rexicon226/osmium) A Python 3.10 (to be expanded) compiler and virtual machine.
+- [SCC](https://github.com/Rexicon226/scc) A (to-be) C11 complaint C compiler written in Zig.
 
-<a href="https://github.com/Rexicon226/">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rexicon226&show_icons=true&hide=python&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="rexicon226"/>
+Private project (for reasons), but still potentially notable is:
 
-</a>
-</div>
+- Vortan, A Glider Flight Controller written in C++ for the Tegra 20 SoC
