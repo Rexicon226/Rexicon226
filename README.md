@@ -10,3 +10,10 @@ Notable projects aside from my work and Zig are:
 Private project (for reasons), but still potentially notable is:
 
 - Vortan, A Glider Flight Controller written in C++ for the Tegra 20 SoC
+
+Contact:
+- Discord: `@telaxion`
+- Email: daviru007@icloud.com
+
+PS:
+If you can guess where my username originates, you'll get a banana 😉.
