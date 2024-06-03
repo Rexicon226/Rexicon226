@@ -11,7 +11,7 @@ Notable projects aside from my work and Zig are:
 
 Private project (for reasons), but still potentially notable is:
 
-- Vortan, A Glider Flight Controller written in C++ for the Tegra 20 SoC
+- Vortan, A Glider Flight Computer written in C++ for the Tegra 20 SoC
 
 Contact:
 - Discord: `@telaxion`
