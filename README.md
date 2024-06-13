@@ -15,7 +15,7 @@ Private project (for reasons), but still potentially notable is:
 
 Contact:
 - Discord: `@telaxion`
-- Email: daviru007 at icloud dot com
+- Email: `daviru007` at `icloud` dot `com`
 
 PS:
 If you can guess where my username originates, you'll get a banana 😉.
