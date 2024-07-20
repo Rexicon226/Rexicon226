@@ -1,4 +1,4 @@
-I usually go by Sinon online. I'm an 11th grader writing the RISC-V backend for [Zig](https://github.com/ziglang/zig) and doing ML inference at [ZML](https://github.com/zml).
+I usually go by Sinon online. I'm an 12th grader writing the RISC-V backend for [Zig](https://github.com/ziglang/zig) and doing ML inference at [ZML](https://github.com/zml).
 
 I have great experience optimizing VMs, building linkers, low-level debugging, and many other things. I enjoy a more theoretical approach to computer science in the form of CFG optimization and scheduler-guided ISEL.
 
