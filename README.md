@@ -1,4 +1,4 @@
-I usually go by Sinon online.
+I prefer to be called Sinon.
 
 Blog: https://blog.vortan.dev/
 
